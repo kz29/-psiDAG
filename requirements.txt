@@ -1,0 +1,6 @@
+numpy
+networkx
+python-igraph
+matplotlib
+torch
+tqdm
