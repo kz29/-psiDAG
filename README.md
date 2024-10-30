@@ -1,4 +1,4 @@
-# -psiDAG
+# psiDAG
 
 Projected Stochastic Approximation Iteration for DAG Structure Learning
 
