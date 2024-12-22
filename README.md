@@ -1,6 +1,6 @@
 # ψDAG: Projected Stochastic Approximation Iteration for DAG Structure Learning
 
-This repository contains the implementation of **ψDAG**, a novel framework for learning Directed Acyclic Graphs (DAGs) using a Stochastic Approximation approach integrated with Stochastic Gradient Descent (SGD)-based optimization techniques. ψDAG introduces new projection methods tailored to efficiently enforce DAG constraints, ensuring convergence to a feasible local minimum with improved computational efficiency.
+This repository contains the implementation of [**ψDAG**](https://arxiv.org/abs/2410.23862), a novel framework for learning Directed Acyclic Graphs (DAGs) using a Stochastic Approximation approach integrated with Stochastic Gradient Descent (SGD)-based optimization techniques. ψDAG introduces new projection methods tailored to efficiently enforce DAG constraints, ensuring convergence to a feasible local minimum with improved computational efficiency.
 
 ---
 
