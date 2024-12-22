@@ -30,13 +30,10 @@ pip install -r requirements.txt
 ## BibTeX
 If you find this work useful, please cite our paper:
 ```
-@misc{ziu2024psidagprojectedstochasticapproximation,
-      title={$\psi$DAG: Projected Stochastic Approximation Iteration for DAG Structure Learning}, 
-      author={Klea Ziu and Slavomír Hanzely and Loka Li and Kun Zhang and Martin Takáč and Dmitry Kamzolov},
-      year={2024},
-      eprint={2410.23862},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.23862}, 
+@article{ziu2024psi,
+  title={$$\backslash$psi $ DAG: Projected Stochastic Approximation Iteration for DAG Structure Learning},
+  author={Ziu, Klea and Hanzely, Slavom{\'\i}r and Li, Loka and Zhang, Kun and Tak{\'a}{\v{c}}, Martin and Kamzolov, Dmitry},
+  journal={arXiv preprint arXiv:2410.23862},
+  year={2024}
 }
 ```
